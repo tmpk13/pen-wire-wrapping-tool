@@ -18,4 +18,10 @@ The hole should be smaller and parralell to the main pin hole.
 ## Potential fix
 <img width="1197" height="780" alt="image" src="https://github.com/user-attachments/assets/d6875768-602a-461f-8250-689f64026360" />
 
-Or maybe dent a channel into the side of the tube then shrink wrap over channel.
+Or maybe dent a channel into the side of the tube then shrink wrap over channel. 
+
+If tight enough tolerence a keyed inner channel may be enough. 
+The inner diameter of the tube should be less than that of the combined total of the pin and the wire gauge to be wrapped. 
+<img width="747" height="598" alt="image" src="https://github.com/user-attachments/assets/ced46bc0-1425-42f9-ae68-7bcdd4beb69a" />
+
+Want to test if epoxy putty in the tube, and then poking the pin and wire into the putty while curing would work for the holes
