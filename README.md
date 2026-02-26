@@ -1,5 +1,7 @@
 # pen-wire-wrapping-tool
 
+For 30 ga wire this works well. It can do 28 ga but nearby pins will cause issues.
+
 # 1st version
 This works fine but if used close to other pins the end will get caught and cut the wire.
 Making the hole a 45 degree angle helps some. Really need a way to keep the pin straight up and down.
